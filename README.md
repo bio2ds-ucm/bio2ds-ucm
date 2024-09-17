@@ -56,10 +56,12 @@ Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que
 <h2 align="left">🔭 ¿Qué hemos publicado?</h2>
 
 * **Artículos destacados**:
+  - [(2024) Spatially Preserved Multi-Region Transcriptomic Subtyping and Biomarkers of Chemoimmunotherapy Outcome in Extensive-Stage Small Cell Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/38630755/). **Melina Peressini**, R. García-Campelo, B. Massuti, C. Martí, M. Cobo, V. Gutiérrez, M. Dómine, otros y J. Zugazagoitia, Clin Cancer Res. 2024 Jul 15;30(14):3036-3049.
   - [(2024) Double-weighted kNN: a simple and efficient variant with embedded feature selection](https://doi.org/10.1057/s41270-024-00302-5). **Almudena Moreno-Ribera** y **Aida Calviño**. J Market Anal.
   - [(2023) Machine Learning applied to omics data](https://doi.org/10.1007/978-3-031-32729-2_2). **Aida Calviño**, **Almudena Moreno-Ribera** y **Silvia Pineda**. In: Larriba, Y. (eds) Statistical Methods at the Forefront of Biomedical Advances. Springer, Cham.
   - [(2021) A pan-cancer analysis of tumor-infiltrating b cell repertoires](https://doi.org/10.3389/fimmu.2021.790119). K. Yu, A. Ravoor, N. Malats, **Silvia Pineda** y M. Sirota. Frontiers in Immunology, 12, 790119–790119.
   - [(2021) Tumor-Infiltrating B- and T-Cell Repertoire in Pancreatic Cancer Associated With Host and Tumor Features](https://www.frontiersin.org/articles/10.3389/fimmu.2021.730746/full). **Silvia Pineda**, E. López de Maturana, K. Yu, A. Ravoor, I. Wood, N. Malats y M. Sirota. Front. Immunol. 12:730746.
+
  
 * **Trabajos Fin de Grado y Fin de Máster**:
   - [(2024) Clasificación supervisada de imágenes de resonancia magnética para la detección de la enfermedad de Alzheimer](https://hdl.handle.net/20.500.14352/106734). Estudiante: Elisa Caballero Testón. Directores o tutores (orden alfabético): **Javier Álvarez Liébana** y **Aida Calviño Martínez**. TFM del Máster de Bioestadística de la UCM.
