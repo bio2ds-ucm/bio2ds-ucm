@@ -21,7 +21,7 @@
 </h1>
 
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bio2ds-ucm/blob/master/README-EN.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bio2ds-ucm/bio2ds-ucm/blob/main/README-EN.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/bio2ds-ucm/bio2ds-ucm/blob/master/README.md)
 
 
