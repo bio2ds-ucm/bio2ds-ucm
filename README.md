@@ -66,10 +66,18 @@ Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que
   - [(2021) Tumor-Infiltrating B- and T-Cell Repertoire in Pancreatic Cancer Associated With Host and Tumor Features](https://www.frontiersin.org/articles/10.3389/fimmu.2021.730746/full). **Silvia Pineda San Juan**, E. López de Maturana, K. Yu, A. Ravoor, I. Wood, N. Malats and M. Sirota. Front. Immunol. 12:730746.
   - [(2019) Characterizing pre-transplant and post-transplant kidney rejection risk by B cell immune repertoire sequencing](https://www.nature.com/articles/s41467-019-09930-3). **Silvia Pineda San Juan**,  T.K . Sigdel, J. M. Liberto and otros. Nat. Commun. 10, 1906.
 
+* **Tesis (co)dirigidas**:
+    - (en proceso) «Predicción de la resistencia temprana a osimertinib en primera línea en pacientes con cáncer de pulmón no microcítico EGFR mutado empleando transcriptómica espacial» de **Melina Peressini Álvarez** (UCM - Hospital 12 de Octubre). Co-directora: **Silvia Pineda San Juan**
+  - (en proceso) «Association Rules for predictive purposes applied to omics data» de **Almudena Moreno Ribera** (UCM). Co-directoras: **Aida Calviño** y **Silvia Pineda San Juan**.
+  - (en proceso) «Dinámica de la recuperación de la sensibilidad al contraste tras el blanqueamiento de los fotorreceptores» de Melisa Remis González (UCM). Co-director: **Javier Álvarez Liébana**.
+  - (en proceso) «Problemas de aprendizaje automático en redes y aplicaciones» de Eduardo Martínez Tena (UCM). Co-director: **Javier Álvarez Liébana**.
+  - [(2022) «Urothelial Bladder Cancer (UBC) subtypes characterization»](https://repositorio.uam.es/handle/10486/705237) de Raquel Benítez Dorta (CNIO - Universidad Autónoma de Madrid). Co-directora: **Silvia Pineda San Juan**
+
 * **Trabajos Fin de Grado y Fin de Máster**:
   - [(2024) Clasificación supervisada de imágenes de resonancia magnética para la detección de la enfermedad de Alzheimer](https://hdl.handle.net/20.500.14352/106734). Estudiante: Elisa Caballero Testón. Directores o tutores (orden alfabético): **Javier Álvarez Liébana** y **Aida Calviño Martínez**. TFM del Máster de Bioestadística de la UCM.
   - [(2024) Estudio de datos inmunológicos en cáncer mediante el uso de técnicas de análisis de datos composicionales](...). Estudiante: Olga Fresco Garrido. Directores o tutores (orden alfabético): **Javier Álvarez Liébana** y **Silvia Pineda San Juan**. TFM del Máster de Bioestadística de la UCM.
   - [(2024) Clasificación de datos genéticos de alta dimensión en trasplantes de riñón ](...). Estudiante: Júlia Guevara Figueras. Directores o tutores (orden alfabético): **Javier Álvarez Liébana**, **Aida Calviño** y **Silvia Pineda San Juan**. TFM del Máster de Bioestadística de la UCM.
+
 
 
 <h2 align="left">⚡ Paquetes y software</h2>
