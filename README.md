@@ -104,13 +104,14 @@ Además de nuestro trabajo como investigadores/as algunas de las personas que fo
 <img src="https://github.com/user-attachments/assets/a98c7da2-f2c3-413f-b112-4a02d1fa6e3b" width="160px;" alt="RTVE"/>
 <img src="https://github.com/user-attachments/assets/41aaba7c-5a88-41fa-a8f6-6398ef47fe6e" width="160px;" alt="VHIR"/>
 
+
+- [**Grupo de investigación «Nefrología y Trasplante Renal»**](https://vhir.vallhebron.com/es/investigacion/nefrologia-y-trasplante-renal) del **Hospital Vall d'Hebron** (Barcelona). 
+- [**Grupo de investigación «Sirota Lab»**](https://sirotalab.ucsf.edu/) del Departamento de Pediatría e **Instituto Bakar de Ciencias Computacionales de la Saluda de la Universidad de San Francisco (California)**.
+- [**Grupo de investigación «Microambiente Tumoral e Inmunoterapia»**](https://imas12.es/investigacion/cancer/microambiente-tumoral-e-inmunoterapia/equipo/) del **Hospital 12 de Octubre** de Madrid.
 - [**Máster en Bioinformática y Ciencia de datos en Medicina personalizada de precisión y salud**](https://masterbioinformatica.com/) (título propio de la **Escuela Nacional de Sanidad del Instituto de Salud Carlos III** de Madrid). Colaboran actualmente como docentes Javier Álvarez Liébana, Almudena Moreno Ribera, Melina Peressini Álvarez y Silvia Pineda San Juan.
 - [**Máster Universitario en Ciencias Sociales Computacionales**](https://www.uc3m.es/master/ciencias-sociales-computacionales) (máster oficial de la **Universidad Carlos III de Madrid**). Colaboran actualmente como docentes Javier Álvarez Liébana.
 - [**Análisis de Big Data con R**](https://www.madrid.es/portal/site/munimadrid) (plan de formación del **Ayuntamiento de Madrid**). Colaboran actualmente como docentes Aida Calviño.
 - [**Análisis y estimación de encuestas con R**](https://www.rtve.es/noticias/20240523/elecciones-europeas-2024-encuestas-sondeos-espana-europa/16114534.shtml) (plan de formación de **RTVE**). Colaboran actualmente como docentes/investigadores Javier Álvarez Liébana.
-- [**Grupo de investigación «Nefrología y Trasplante Renal»**](https://vhir.vallhebron.com/es/investigacion/nefrologia-y-trasplante-renal) del **Hospital Vall d'Hebron** (Barcelona). Colaboran actualmente como investigadores Franc Casanova Ferrer y Silvia Pineda San Juan.
-- [**Grupo de investigación «Sirota Lab»**](https://sirotalab.ucsf.edu/) del Departamento de Pediatría e **Instituto Bakar de Ciencias Computacionales de la Saluda de la Universidad de San Francisco (California)**. Colaboran actualmente como investigadores Silvia Pineda San Juan.
-- [**Grupo de investigación «Microambiente Tumoral e Inmunoterapia»**](https://imas12.es/investigacion/cancer/microambiente-tumoral-e-inmunoterapia/equipo/) del **Hospital 12 de Octubre** de Madrid. Colaboran actualmente como investigadores Melina Peressini Álvarez y Silvia Pineda San Juan.
   
 <h2 align="left">💬 Feedback</h2>
 
