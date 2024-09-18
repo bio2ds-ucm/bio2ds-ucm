@@ -35,15 +35,16 @@ Aunque cada uno de los software o paquetes individuales están debidamente **pub
 <h3 align="left">📉 Paquete de R: goffda</h3>
 
   * 👥 **Autores/as**: [Eduardo García Portugués](https://github.com/egarpor), [Javier Álvarez Liébana](https://github.com/dadosdelaplace), Gonzalo Álvarez Pérez, Manuel Febrero Bande.
-  * **Repo oficial**: https://github.com/dadosdelaplace/goffda
-  * **Paquete en CRAN**: https://cran.r-project.org/package=goffda [![](https://www.r-pkg.org/badges/version/goffda)](https://cran.r-project.org/package=goffda) ![Downloads](https://cranlogs.r-pkg.org/badges/goffda)
-  * **Descripción**: paquete para la implementación de contrastes de bondad de ajuste en el contexto de la regresión funcional, incluidos los casos de covariable funcional y/o predictora funcional. El paquete permite replicar los resultados planteados en el artículo [«A goodness-of-fit test for the functional linear model with functional response» (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/sjos.12486)
+  * 🎖 **Repo oficial**: [https://github.com/dadosdelaplace/goffda](https://github.com/egarpor/goffda)
+  * 📦 **Paquete en CRAN**: https://cran.r-project.org/package=goffda [![](https://www.r-pkg.org/badges/version/goffda)](https://cran.r-project.org/package=goffda) ![Downloads](https://cranlogs.r-pkg.org/badges/goffda)
+  * 📰 **Descripción**: paquete para la implementación de contrastes de bondad de ajuste en el contexto de la regresión funcional, incluidos los casos de covariable funcional y/o predictora funcional. El paquete permite replicar los resultados planteados en el artículo [«A goodness-of-fit test for the functional linear model with functional response» (2021)](https://onlinelibrary.wiley.com/doi/full/10.1111/sjos.12486)
 
 <h3 align="left">🗳 Paquete de R (en desarrollo): pollspain</h3>
+
   * 👥 **Autores/as**: [Javier Álvarez Liébana](https://github.com/dadosdelaplace), [Mikaela de Smedt](https://github.com/mikadsr)
-  * **Repo oficial**: https://github.com/dadosdelaplace/pollspain
-  * **Paquete en CRAN**: en desarrollo
-  * **Descripción**: paquete para la extracción, preprocesado, análisis y estimación de encuestas electorales en España 
+  * 🎖 **Repo oficial**: https://github.com/dadosdelaplace/pollspain
+  * 📦 **Paquete en CRAN**: en desarrollo
+  * 📰 **Descripción**: paquete para la extracción, preprocesado, análisis y estimación de encuestas electorales en España 
 
 
 
