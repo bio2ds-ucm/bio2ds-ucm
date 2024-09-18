@@ -27,7 +27,7 @@
 
 <h1 align = "left">😄 ¡Bienvenidos/as/es a nuestro Github!</h1>
 
-Somos el **grupo de investigación ${\rm BIO^2 DS}$** (Biomedical Data Science & Biostatistics), un grupo de investigación con sede física oficial en la [Facultad de Estudios Estadísticos de la Universidad Complutense de Madrid](https://estudiosestadisticos.ucm.es/). El trabajo de nuestro grupo está enfocado en el **análisis de datos del ámbito de la medicina, la salud y sus determinantes sociales, la ómica y la biología**, bajo el paraguas de la ciencia de datos, el Machine Learning y la bioestadística. Dicho proceso de investigación lo centramos en tres pilares fundamentales: el **desarrollo metodológico**, los **resultados derivados del mismo de la manera más transaccional posible** en los ámbitos mencionados, y la **producción de software**.
+Somos el **grupo de investigación ${\rm BIO^2 DS}$** (Biomedical Data Science & Biostatistics), un grupo de investigación con sede física oficial en la [Facultad de Estudios Estadísticos de la Universidad Complutense de Madrid](https://estudiosestadisticos.ucm.es/). El trabajo de nuestro grupo está enfocado en el **análisis de datos del ámbito de la medicina, la salud y sus determinantes sociales, la ómica y la biología**, bajo el paraguas de la ciencia de datos, el Machine Learning y la bioestadística. Dicho proceso de investigación lo centramos en tres pilares fundamentales: el **desarrollo metodológico**, los **resultados derivados del mismo de la manera más traslacional posible** en los ámbitos mencionados, y la **producción de software**.
 
 <h2 align="left">👥 ¿Quiénes somos?</h2>
 
@@ -37,7 +37,7 @@ El grupo de investigación está abierto a todo tipo de colaboraciones entre inv
   <tbody>
     <tr>
       <td align="center" valign="top" width="33%"><a href="..."><img src="https://github.com/dadosdelaplace.png" width="100px;" alt="Aida Calviño"/><br /><sub><b>Aida Calviño</b></sub></a><br />  <br> (coordinadora y profesora titular en la Facultad de Estudios Estadísticos de la UCM) <a href="https://scholar.google.es/citations?user=WHrv-ssAAAAJ&hl=es" title="Google Scholar">📖</a> <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3Adadosdelaplace" title=" Pull Requests">👀</a> <a href="https://github.com/dadosdelaplace" title="Github">💻</a></td>
-      <td align="center" valign="top" width="33%"><a href="..."><img src="https://github.com/dadosdelaplace.png" width="100px;" alt="Silvia Pineda"/><br /><sub><b>Silvia Pineda</b></sub></a><br />  <br> (coordinadora y profesora Ayudante Doctor en la Facultad de Estudios Estadísticos de la UCM) <a href="https://produccioncientifica.ucm.es/investigadores/158046/detalle" title="Google Scholar">📖</a> <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3Adadosdelaplace" title=" Pull Requests">👀</a> <a href="https://github.com/dadosdelaplace" title="Github">💻</a></td>
+      <td align="center" valign="top" width="33%"><a href="..."><img src="https://github.com/dadosdelaplace.png" width="100px;" alt="Silvia Pineda San Juan"/><br /><sub><b>Silvia Pineda San Juan</b></sub></a><br />  <br> (coordinadora y profesora Ayudante Doctor en la Facultad de Estudios Estadísticos de la UCM) <a href="https://produccioncientifica.ucm.es/investigadores/158046/detalle" title="Google Scholar">📖</a> <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3Adadosdelaplace" title=" Pull Requests">👀</a> <a href="https://github.com/dadosdelaplace" title="Github">💻</a></td>
       <td align="center" valign="top" width="33%"><a href="https://javieralvarezliebana.es"><img src="https://github.com/dadosdelaplace.png" width="100px;" alt="Javier Alvarez Liebana"/><br /><sub><b>Javier Álvarez Liébana</b></sub></a><br />  <br> (coordinador, profesor Ayudante Doctor en la Facultad de Estudios Estadísticos de la UCM y 🚧 de Github) <a href="https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en" title="Google Scholar">📖</a> <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3Adadosdelaplace" title=" Pull Requests">👀</a> <a href="https://github.com/dadosdelaplace" title="Github">💻</a></td>
     </tr>
     <tr>
@@ -60,9 +60,9 @@ Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que
 * **Artículos destacados**:
   - [(2024) Spatially Preserved Multi-Region Transcriptomic Subtyping and Biomarkers of Chemoimmunotherapy Outcome in Extensive-Stage Small Cell Lung Cancer](https://pubmed.ncbi.nlm.nih.gov/38630755/). **Melina Peressini**, R. García-Campelo, B. Massuti, C. Martí, M. Cobo, V. Gutiérrez, M. Dómine, otros y J. Zugazagoitia, Clin Cancer Res. 2024 Jul 15;30(14):3036-3049.
   - [(2024) Double-weighted kNN: a simple and efficient variant with embedded feature selection](https://doi.org/10.1057/s41270-024-00302-5). **Almudena Moreno-Ribera** y **Aida Calviño**. J Market Anal.
-  - [(2023) Machine Learning applied to omics data](https://doi.org/10.1007/978-3-031-32729-2_2). **Aida Calviño**, **Almudena Moreno-Ribera** y **Silvia Pineda**. In: Larriba, Y. (eds) Statistical Methods at the Forefront of Biomedical Advances. Springer, Cham.
-  - [(2021) A pan-cancer analysis of tumor-infiltrating b cell repertoires](https://doi.org/10.3389/fimmu.2021.790119). K. Yu, A. Ravoor, N. Malats, **Silvia Pineda** y M. Sirota. Frontiers in Immunology, 12, 790119–790119.
-  - [(2021) Tumor-Infiltrating B- and T-Cell Repertoire in Pancreatic Cancer Associated With Host and Tumor Features](https://www.frontiersin.org/articles/10.3389/fimmu.2021.730746/full). **Silvia Pineda**, E. López de Maturana, K. Yu, A. Ravoor, I. Wood, N. Malats y M. Sirota. Front. Immunol. 12:730746.
+  - [(2023) Machine Learning applied to omics data](https://doi.org/10.1007/978-3-031-32729-2_2). **Aida Calviño**, **Almudena Moreno-Ribera** y **Silvia Pineda San Juan**. In: Larriba, Y. (eds) Statistical Methods at the Forefront of Biomedical Advances. Springer, Cham.
+  - [(2021) A pan-cancer analysis of tumor-infiltrating b cell repertoires](https://doi.org/10.3389/fimmu.2021.790119). K. Yu, A. Ravoor, N. Malats, **Silvia Pineda San Juan** y M. Sirota. Frontiers in Immunology, 12, 790119–790119.
+  - [(2021) Tumor-Infiltrating B- and T-Cell Repertoire in Pancreatic Cancer Associated With Host and Tumor Features](https://www.frontiersin.org/articles/10.3389/fimmu.2021.730746/full). **Silvia Pineda San Juan**, E. López de Maturana, K. Yu, A. Ravoor, I. Wood, N. Malats y M. Sirota. Front. Immunol. 12:730746.
 
  
 * **Trabajos Fin de Grado y Fin de Máster**:
@@ -81,10 +81,21 @@ Una de nuestras principales actividades es la programación y la creación de **
 
 Además de nuestro trabajo como investigadores/as algunas de las personas que formamos el grupo **colaboramos con las siguientes entidades** en el ámbito de la estadística, ciencia de datos, bioinformática, Machine Learning y la creación de software:
 
-- [**Máster en Bioinformática y Ciencia de datos en Medicina personalizada de precisión y salud**](https://masterbioinformatica.com/) (título propio de la **Escuela Nacional de Sanidad del Instituto de Salud Carlos III**). Colaboran actualmente como docentes Javier Álvarez Liébana, Almudena Moreno Ribera, Melina Peressini Álvarez y Silvia Pineda.
+<img src="https://github.com/user-attachments/assets/5ec5d409-6e88-4f00-8e2e-34e351b94d8b" width="160px;" alt="Hospital 12 Octubre"/>
+<img src="https://github.com/user-attachments/assets/4cd39c5e-d15c-4ae1-9fa8-14067a2e36ce" width="160px;" alt="Sirota Lab"/>
+<img src="https://github.com/user-attachments/assets/9488830d-0473-4b92-8333-050ed00b4188" width="160px;" alt="ISCIII"/>
+<img src="https://github.com/user-attachments/assets/de986771-b8b1-427d-935a-a44de139202d" width="160px;" alt="UC3M"/>
+<img src="https://github.com/user-attachments/assets/da9f063e-66ce-4713-bdc5-5c9e08210d3e" width="160px;" alt="Ayuntamiento de Madrid"/>
+<img src="https://github.com/user-attachments/assets/a98c7da2-f2c3-413f-b112-4a02d1fa6e3b" width="160px;" alt="RTVE"/>
+<img src="https://github.com/user-attachments/assets/41aaba7c-5a88-41fa-a8f6-6398ef47fe6e" width="160px;" alt="VHIR"/>
+
+- [**Máster en Bioinformática y Ciencia de datos en Medicina personalizada de precisión y salud**](https://masterbioinformatica.com/) (título propio de la **Escuela Nacional de Sanidad del Instituto de Salud Carlos III** de Madrid). Colaboran actualmente como docentes Javier Álvarez Liébana, Almudena Moreno Ribera, Melina Peressini Álvarez y Silvia Pineda San Juan.
 - [**Máster Universitario en Ciencias Sociales Computacionales**](https://www.uc3m.es/master/ciencias-sociales-computacionales) (máster oficial de la **Universidad Carlos III de Madrid**). Colaboran actualmente como docentes Javier Álvarez Liébana.
 - [**Análisis de Big Data con R**](https://www.madrid.es/portal/site/munimadrid) (plan de formación del **Ayuntamiento de Madrid**). Colaboran actualmente como docentes Aida Calviño.
 - [**Análisis y estimación de encuestas con R**](https://www.rtve.es/noticias/20240523/elecciones-europeas-2024-encuestas-sondeos-espana-europa/16114534.shtml) (plan de formación de **RTVE**). Colaboran actualmente como docentes/investigadores Javier Álvarez Liébana.
+- [**Grupo de investigación «Nefrología y Trasplante Renal»**](https://vhir.vallhebron.com/es/investigacion/nefrologia-y-trasplante-renal) del **Hospital Vall d'Hebron** (Barcelona). Colaboran actualmente como investigadores Franc Casanova Ferrer y Silvia Pineda San Juan.
+- [**Grupo de investigación «Sirota Lab»**](https://sirotalab.ucsf.edu/) del Departamento de Pediatría e **Instituto Bakar de Ciencias Computacionales de la Saluda de la Universidad de San Francisco (California)**. Colaboran actualmente como investigadores Silvia Pineda San Juan.
+- [**Grupo de investigación «Microambiente Tumoral e Inmunoterapia»**](https://imas12.es/investigacion/cancer/microambiente-tumoral-e-inmunoterapia/equipo/) del **Hospital 12 de Octubre** de Madrid. Colaboran actualmente como investigadores Melina Peressini Álvarez y Silvia Pineda San Juan.
   
 <h2 align="left">💬 Feedback</h2>
 
