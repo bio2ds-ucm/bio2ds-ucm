@@ -46,5 +46,11 @@ Aunque cada uno de los software o paquetes individuales están debidamente **pub
   * 📦 **Paquete en CRAN**: en desarrollo
   * 📰 **Descripción**: paquete para la extracción, preprocesado, análisis y estimación de encuestas electorales en España 
 
+<h3 align="left">💰 Software de artículo </h3>
+
+  * 👥 **Autores/as**: [Javier Álvarez Liébana](https://github.com/dadosdelaplace)
+  * 🎖 **Repo oficial**: https://github.com/dadosdelaplace/gof-test-arh-ou-process
+  * 📦 **Paquete en CRAN**: no está en formato paquete.
+  * 📰 **Descripción**: software que permite replicar los resultados planteados en el artículo [«A goodness-of-fit test for functional time series with applications to diffusion processes» (pendiente de revisión)](...)
 
 
