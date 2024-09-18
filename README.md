@@ -105,6 +105,7 @@ Además de nuestro trabajo como investigadores/as/es en nuestros centros habitua
 <img src="https://github.com/user-attachments/assets/a98c7da2-f2c3-413f-b112-4a02d1fa6e3b" width="160px;" alt="RTVE"/>
 <img src="https://github.com/user-attachments/assets/41aaba7c-5a88-41fa-a8f6-6398ef47fe6e" width="160px;" alt="VHIR"/>
 <img src="https://github.com/user-attachments/assets/3dd43e17-a80e-448d-9a58-6ccbbfef9a49" width="160px;" alt="CNIC"/>
+<img src="https://github.com/user-attachments/assets/dad16f53-768c-47dd-9bdb-5dc813b277f7" width="190px;" alt="IUIN"/>
 
 
 
@@ -112,6 +113,7 @@ Además de nuestro trabajo como investigadores/as/es en nuestros centros habitua
 - [**Grupo de investigación «Sirota Lab»**](https://sirotalab.ucsf.edu/) del Departamento de Pediatría e **Instituto Bakar de Ciencias Computacionales de la Saluda de la Universidad de San Francisco (California)**.
 - [**Grupo de investigación «Microambiente Tumoral e Inmunoterapia»**](https://imas12.es/investigacion/cancer/microambiente-tumoral-e-inmunoterapia/equipo/) del **Hospital 12 de Octubre** de Madrid.
 - [**Grupo de investigación «Fisiopatología cardiovascular»**](https://www.cnic.es/es/investigacion/fisiopatologia-neurovascular) del **Centro Nacional de Investigaciones Cardiovasculares** de Madrid.
+- [**Unidad investigación neurovascular**](https://www.ucm.es/iuin) del **Instituto Universitario de Investigación en Neuroquímica** de la UCM.
 - [**Máster en Bioinformática y Ciencia de datos en Medicina personalizada de precisión y salud**](https://masterbioinformatica.com/) (título propio de la **Escuela Nacional de Sanidad del Instituto de Salud Carlos III** de Madrid). Colaboran actualmente como docentes Javier Álvarez Liébana, Almudena Moreno Ribera, Melina Peressini Álvarez y Silvia Pineda San Juan.
 - [**Máster Universitario en Ciencias Sociales Computacionales**](https://www.uc3m.es/master/ciencias-sociales-computacionales) (máster oficial de la **Universidad Carlos III de Madrid**). Colaboran actualmente como docentes Javier Álvarez Liébana.
 - [**Análisis de Big Data con R**](https://www.madrid.es/portal/site/munimadrid) (plan de formación del **Ayuntamiento de Madrid**). Colaboran actualmente como docentes Aida Calviño.
