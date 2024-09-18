@@ -1,0 +1,40 @@
+
+year <- sub("-.*", "", meta$Date)
+note <- paste("R package version", meta$Version)
+
+citHeader("To cite goffda in publications use:")
+
+bibentry(
+  bibtype      = "Manual",
+  title        = "{goffda}: Goodness-of-Fit Tests for Functional Data",
+  author       = c(person(given = "Eduardo", family = "García-Portugués"),
+                   person(given = "Javier", family = "Álvarez-Liébana")),
+  year         = year,
+  note         = note,
+  url          = "https://CRAN.R-project.org/package=goffda",
+  textVersion  =
+  paste(paste0("García-Portugués, E. and Álvarez-Liébana, J. (", year, ")."),
+        "goffda: Goodness-of-Fit Tests for Functional Data.",
+        paste0(note, "."), "https://CRAN.R-project.org/package=goffda")
+)
+
+bibentry(
+  bibtype      = "Article",
+  title        = "A goodness-of-fit test for the functional linear model with functional response",
+  author       = c(person(given = "Eduardo", family = "García-Portugués"),
+                   person(given = "Javier", family = "Álvarez-Liébana"),
+                   person(given = "Gonzalo", family = "Álvarez-Pérez"),
+                   person(given = "Wenceslao", family = "González-Manteiga")),
+  journal      = "Scandinavian Journal of Statistics",
+  year         = "2021",
+  volume       = "48",
+  number       = "2",
+  pages        = "502--528",
+  url          = "https://doi.org/10.1111/sjos.12486",
+  textVersion  =
+  paste("García-Portugués, E., Álvarez-Liébana, J., Álvarez-Pérez, G., and González-Manteiga, W. (2021).",
+        "A goodness-of-fit test for the functional linear model with functional response.",
+        "Scandinavian Journal of Statistics, 48(2):502-528.",
+        "https://doi.org/10.1111/sjos.12486")
+)
+
