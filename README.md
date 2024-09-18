@@ -95,7 +95,7 @@ Una de nuestras principales actividades es la programación y la creación de **
 
 <h2 align="left">🚀 Colaboraciones externas</h2>
 
-Además de nuestro trabajo como investigadores/as algunas de las personas que formamos el grupo **colaboramos con las siguientes entidades** en el ámbito de la estadística, ciencia de datos, bioinformática, Machine Learning y la creación de software:
+Además de nuestro trabajo como investigadores/as/es en nuestros centros habituales de trabajo algunas de las personas que formamos el grupo **colaboramos como investigadores y/o docentes con las siguientes entidades** en el ámbito de la estadística, ciencia de datos, bioinformática, bioestadísitca, biomedicina, Machine Learning y la creación de software:
 
 <img src="https://github.com/user-attachments/assets/5ec5d409-6e88-4f00-8e2e-34e351b94d8b" width="160px;" alt="Hospital 12 Octubre"/>
 <img src="https://github.com/user-attachments/assets/4cd39c5e-d15c-4ae1-9fa8-14067a2e36ce" width="160px;" alt="Sirota Lab"/>
@@ -104,11 +104,14 @@ Además de nuestro trabajo como investigadores/as algunas de las personas que fo
 <img src="https://github.com/user-attachments/assets/da9f063e-66ce-4713-bdc5-5c9e08210d3e" width="160px;" alt="Ayuntamiento de Madrid"/>
 <img src="https://github.com/user-attachments/assets/a98c7da2-f2c3-413f-b112-4a02d1fa6e3b" width="160px;" alt="RTVE"/>
 <img src="https://github.com/user-attachments/assets/41aaba7c-5a88-41fa-a8f6-6398ef47fe6e" width="160px;" alt="VHIR"/>
+<img src="https://github.com/user-attachments/assets/3dd43e17-a80e-448d-9a58-6ccbbfef9a49" width="160px;" alt="CNIC"/>
+
 
 
 - [**Grupo de investigación «Nefrología y Trasplante Renal»**](https://vhir.vallhebron.com/es/investigacion/nefrologia-y-trasplante-renal) del **Hospital Vall d'Hebron** (Barcelona). 
 - [**Grupo de investigación «Sirota Lab»**](https://sirotalab.ucsf.edu/) del Departamento de Pediatría e **Instituto Bakar de Ciencias Computacionales de la Saluda de la Universidad de San Francisco (California)**.
 - [**Grupo de investigación «Microambiente Tumoral e Inmunoterapia»**](https://imas12.es/investigacion/cancer/microambiente-tumoral-e-inmunoterapia/equipo/) del **Hospital 12 de Octubre** de Madrid.
+- [**Grupo de investigación «Fisiopatología cardiovascular»**](https://www.cnic.es/es/investigacion/fisiopatologia-neurovascular) del **Centro Nacional de Investigaciones Cardiovasculares** de Madrid.
 - [**Máster en Bioinformática y Ciencia de datos en Medicina personalizada de precisión y salud**](https://masterbioinformatica.com/) (título propio de la **Escuela Nacional de Sanidad del Instituto de Salud Carlos III** de Madrid). Colaboran actualmente como docentes Javier Álvarez Liébana, Almudena Moreno Ribera, Melina Peressini Álvarez y Silvia Pineda San Juan.
 - [**Máster Universitario en Ciencias Sociales Computacionales**](https://www.uc3m.es/master/ciencias-sociales-computacionales) (máster oficial de la **Universidad Carlos III de Madrid**). Colaboran actualmente como docentes Javier Álvarez Liébana.
 - [**Análisis de Big Data con R**](https://www.madrid.es/portal/site/munimadrid) (plan de formación del **Ayuntamiento de Madrid**). Colaboran actualmente como docentes Aida Calviño.
