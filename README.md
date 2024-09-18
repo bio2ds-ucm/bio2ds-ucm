@@ -86,7 +86,9 @@ Una de nuestras principales actividades es la programación y la creación de **
 
 | Paquete / Software | Enlace oficial | Autores del grupo | Resumen | Descargas |
 |:------------------:|:--------------:|:-----------------:|:-------|:---------:|
-[_goffda_](https://github.com/dadosdelaplace/goffda) | [![](https://www.r-pkg.org/badges/version/goffda)](https://cran.r-project.org/package=goffda) | [Javier Álvarez Liébana](https://github.com/dadosdelaplace) | Paquete para la implementación de contrastes de bondad de ajuste en el contexto de la regresión funcional, incluidos los casos de covariable funcional y/o predictora funcional | ![Downloads](https://cranlogs.r-pkg.org/badges/goffda)  |
+| [_goffda_](https://github.com/dadosdelaplace/goffda) | [![](https://www.r-pkg.org/badges/version/goffda)](https://cran.r-project.org/package=goffda) | [Javier Álvarez Liébana](https://github.com/dadosdelaplace) | Paquete para la implementación de contrastes de bondad de ajuste en el contexto de la regresión funcional, incluidos los casos de covariable funcional y/o predictora funcional | ![Downloads](https://cranlogs.r-pkg.org/badges/goffda)  |
+| [_pollspain_](https://github.com/dadosdelaplace/pollspain/) | [![](https://www.r-pkg.org/badges/version/pollspain)](https://cran.r-project.org/package=pollspain) | [Javier Álvarez Liébana](https://github.com/dadosdelaplace) | Paquete para la extracción, preprocesado, análisis y estimación de encuestas electorales en España | ![Downloads](https://cranlogs.r-pkg.org/badges/pollspain)  |
+
 
 <h2 align="left">🚀 Colaboraciones externas</h2>
 
