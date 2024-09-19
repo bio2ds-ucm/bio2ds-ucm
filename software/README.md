@@ -21,8 +21,8 @@
 </h1>
 
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bio2ds-ucm/bio2ds-ucm/blob/main/README-EN.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/bio2ds-ucm/bio2ds-ucm/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/bio2ds-ucm/bio2ds-ucm/blob/main/software/README-EN.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/bio2ds-ucm/bio2ds-ucm/blob/main/software/README.md)
 
 
 Somos el **grupo de investigación ${\rm BIO^2 DS}$** (Biomedical Data Science & Biostatistics), un grupo de investigación con sede física oficial en la [Facultad de Estudios Estadísticos de la Universidad Complutense de Madrid](https://estudiosestadisticos.ucm.es/). El trabajo de nuestro grupo está enfocado en el **análisis de datos del ámbito de la medicina, la salud y sus determinantes sociales, la ómica y la biología**, bajo el paraguas de la ciencia de datos, el Machine Learning y la bioestadística. Dicho proceso de investigación lo centramos en tres pilares fundamentales: el **desarrollo metodológico**, los **resultados derivados del mismo de la manera más traslacional posible** en los ámbitos mencionados, y la **producción de software**.
