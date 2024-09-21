@@ -53,7 +53,7 @@ El grupo de investigación está abierto a todo tipo de colaboraciones entre inv
 
 <h2 align="left">🌱 ¿En qué investigamos? ¿Cuáles son nuestras líneas de investigación actuales?</h2>
 
-Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que pidamos, y a que proyecto va cada cosa)
+Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que pidamos, y a que proyecto va cada cosa, pero creo que es importante detallarlo)
 
 <h2 align="left">🔭 ¿Qué hemos publicado?</h2>
 
@@ -77,7 +77,6 @@ Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que
   - [(2024) Clasificación supervisada de imágenes de resonancia magnética para la detección de la enfermedad de Alzheimer](https://hdl.handle.net/20.500.14352/106734). Estudiante: Elisa Caballero Testón. Directores o tutores (orden alfabético): **Javier Álvarez Liébana** y **Aida Calviño Martínez**. TFM del Máster de Bioestadística de la UCM.
   - [(2024) Estudio de datos inmunológicos en cáncer mediante el uso de técnicas de análisis de datos composicionales](...). Estudiante: Olga Fresco Garrido. Directores o tutores (orden alfabético): **Javier Álvarez Liébana** y **Silvia Pineda San Juan**. TFM del Máster de Bioestadística de la UCM.
   - [(2024) Clasificación de datos genéticos de alta dimensión en trasplantes de riñón ](...). Estudiante: Júlia Guevara Figueras. Directores o tutores (orden alfabético): **Javier Álvarez Liébana**, **Aida Calviño** y **Silvia Pineda San Juan**. TFM del Máster de Bioestadística de la UCM.
-
 
 
 <h2 align="left">⚡ Paquetes y software</h2>
