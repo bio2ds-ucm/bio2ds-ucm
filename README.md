@@ -105,7 +105,7 @@ Además de nuestro trabajo como investigadores/as/es en nuestros centros habitua
 <img src="https://github.com/user-attachments/assets/41aaba7c-5a88-41fa-a8f6-6398ef47fe6e" width="160px;" alt="VHIR"/>
 <img src="https://github.com/user-attachments/assets/3dd43e17-a80e-448d-9a58-6ccbbfef9a49" width="160px;" alt="CNIC"/>
 <img src="https://github.com/user-attachments/assets/dad16f53-768c-47dd-9bdb-5dc813b277f7" width="180px;" alt="IUIN"/>
-
+<img src="https://github.com/user-attachments/assets/cf40f771-1b15-4d3d-839f-a718bf526910" width="120px;" alt="NETSCI"/>
 
 
 - [**Grupo de investigación «Nefrología y Trasplante Renal»**](https://vhir.vallhebron.com/es/investigacion/nefrologia-y-trasplante-renal) del **Hospital Vall d'Hebron** (Barcelona). 
