@@ -73,7 +73,7 @@ Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que
   - (en proceso) «Problemas de aprendizaje automático en redes y aplicaciones» de Eduardo Martínez Tena (UCM). Co-director: **Javier Álvarez Liébana**.
   - [(2022) «Urothelial Bladder Cancer (UBC) subtypes characterization»](https://repositorio.uam.es/handle/10486/705237) de Raquel Benítez Dorta (CNIO - Universidad Autónoma de Madrid). Co-directora: **Silvia Pineda San Juan**
 
-* **Trabajos Fin de Grado y Fin de Máster**:
+* **Trabajos Fin de Máster**:
   - [(2024) Clasificación supervisada de imágenes de resonancia magnética para la detección de la enfermedad de Alzheimer](https://hdl.handle.net/20.500.14352/106734). Estudiante: Elisa Caballero Testón. Directores o tutores (orden alfabético): **Javier Álvarez Liébana** y **Aida Calviño Martínez**. TFM del Máster de Bioestadística de la UCM.
   - [(2024) Estudio de datos inmunológicos en cáncer mediante el uso de técnicas de análisis de datos composicionales](...). Estudiante: Olga Fresco Garrido. Directores o tutores (orden alfabético): **Javier Álvarez Liébana** y **Silvia Pineda San Juan**. TFM del Máster de Bioestadística de la UCM.
   - [(2024) Clasificación de datos genéticos de alta dimensión en trasplantes de riñón ](...). Estudiante: Júlia Guevara Figueras. Directores o tutores (orden alfabético): **Javier Álvarez Liébana**, **Aida Calviño** y **Silvia Pineda San Juan**. TFM del Máster de Bioestadística de la UCM.
