@@ -25,7 +25,7 @@
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/bio2ds-ucm/bio2ds-ucm/blob/master/README.md)
 
 
-<img src="https://github.com/user-attachments/assets/1f11c83a-221e-4c12-bee4-221e790a656d" width="600px;" alt="grupo-2024"/>
+<img src="https://github.com/user-attachments/assets/1f11c83a-221e-4c12-bee4-221e790a656d" width="480px;" alt="grupo-2024"/>
 
 
 <h1 align = "left">😄 ¡Bienvenidos/as/es a nuestro Github!</h1>
