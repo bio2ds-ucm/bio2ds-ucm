@@ -49,7 +49,16 @@ El grupo de investigación está abierto a todo tipo de colaboraciones entre inv
       <td align="center" valign="top" width="20%"><a href="https://scholar.google.com/citations?hl=es&user=e_21JSMAAAAJ "><img src="https://www.shutterstock.com/image-vector/cheerful-funny-cartoon-childrens-robot-600nw-2407552137.jpg" width="100px;" alt="Mateo Paz Cabezas"/><br /><sub><b>Mateo Paz Cabezas</b></sub></a><br />  <br> (bioinformático y analista de datos del Servicio de Oncología Médica del Hospital Clínico San Carlos) <a href="https://scholar.google.com/citations?hl=es&user=e_21JSMAAAAJ" title="Google Scholar">📖</a> <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3mateopaz" title=" Pull Requests">👀</a> <a href="mailto: mateo.paz@salud.madrid.org" title="Mail">📬</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="20%"><a href="..."><img src="https://www.shutterstock.com/image-vector/cheerful-funny-cartoon-childrens-robot-600nw-2407552137.jpg" width="100px;" alt="Júlia Guevara Figueras"/><br /><sub><b>Júlia Guevara Figueras</b></sub></a><br />  <br> (estudiante de Máster) <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3x" title=" Pull Requests">👀</a> 
+      <td align="center" valign="top" width="20%"><a href="https://www.linkedin.com/in/juan-carlos-pérez-de-la-lastra-rey-694747259/"><img src="https://github.com/user-attachments/assets/bdcba44d-49a5-4323-a09a-ebd717009504" width="100px;" alt="Juan Carlos Pérez De La Lastra Rey"/><br /><sub><b>Juan Carlos Pérez De La Lastra Rey</b></sub></a><br />  <br> (estudiante del Máster de Bioestadística) <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3juan6carlos" title=" Pull Requests">👀</a> <a href="https://github.com/juan6carlos" title="Github">💻</a>  <a href="https://www.linkedin.com/in/juan-carlos-pérez-de-la-lastra-rey-694747259/" title="Linkedin">💼</a>
+      </td>
+      <td align="center" valign="top" width="20%"><a href="..."><img src="https://www.shutterstock.com/image-vector/cheerful-funny-cartoon-childrens-robot-600nw-2407552137.jpg" width="100px;" alt="Elisa Medrano"/><br /><sub><b>Elisa Medrano</b></sub></a><br />  <br> (estudiante del Máster de Bioestadística) <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3x" title=" Pull Requests">👀</a> 
+      </td>
+   </td>
+      <td align="center" valign="top" width="20%"><a href="..."><img src="https://www.shutterstock.com/image-vector/cheerful-funny-cartoon-childrens-robot-600nw-2407552137.jpg" width="100px;" alt="Rafael Farias Varona"/><br /><sub><b>Rafael Farias Varona</b></sub></a><br />  <br> (estudiante del Máster de Bioestadística) <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3x" title=" Pull Requests">👀</a> 
+      </td>
+   </tr>
+    <tr>
+   <td align="center" valign="top" width="20%"><a href="..."><img src="https://www.shutterstock.com/image-vector/cheerful-funny-cartoon-childrens-robot-600nw-2407552137.jpg" width="100px;" alt="Julia Martins Guardia"/><br /><sub><b>Julia Martins Guardia</b></sub></a><br />  <br> (estudiante del Máster de Bioestadística) <a href="https://github.com/bio2ds-ucm/bio2ds-ucm/pulls?q=is%3Apr+reviewed-by%3x" title=" Pull Requests">👀</a> 
       </td>
     </tr>
   </tbody>
