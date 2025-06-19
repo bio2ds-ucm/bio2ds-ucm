@@ -67,7 +67,7 @@ El grupo de investigación está abierto a todo tipo de colaboraciones entre inv
 
 <h2 align="left">🌱 ¿En qué investigamos? ¿Cuáles son nuestras líneas de investigación actuales?</h2>
 
-Pendiente de acordar cómo lo resumimos (ligado también a futuros proyectos que pidamos, y a que proyecto va cada cosa, pero creo que es importante detallarlo)
+En nuestro grupo investigamos cómo transformar datos biomédicos complejos en conocimiento útil para la práctica clínica. Desarrollamos y aplicamos métodos de aprendizaje automático robustos e interpretables para analizar **datos ómicos** (como transcriptómica, genómica o inmunoma) y **registros clínicos** de gran escala. Nuestras líneas actuales se centran en el **desarrollo de modelos predictivos** de fenómenos biológicos complejos —como el rechazo en trasplantes—, el análisis de repertorios inmunológicos en cáncer, y la estimación de riesgos en cohortes clínicas mediante modelos de **inteligencia artificial** adaptados a contextos de **alta dimensionalidad**, **datos composicionales** y fuerte heterogeneidad.
 
 <h2 align="left">🔭 ¿Qué hemos publicado?</h2>
 
